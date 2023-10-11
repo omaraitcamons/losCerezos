@@ -1,0 +1,64 @@
+#cabecera {
+    text-align: center;
+    background-image: url("arbol.jpg");
+    background-size: cover;
+    border-radius: 15px;
+    padding: 10px;
+    text-shadow: 2px 2px 8px gray;
+}
+
+#body {
+    background-image: linear-gradient(to left,rgb(235, 220, 230),rgb(187, 150, 167));
+}
+
+#introduccion {
+    text-shadow: 2px 2px 8px gray;
+    text-align: justify;
+    margin-left:150px;
+    margin-right:150px;
+    color:black;
+    background-image: linear-gradient(to left,rgb(241, 233, 234),white);
+    margin-top: 30px;
+    border-radius: 15px;
+    padding:10px;
+    margin-bottom: 15px;
+}
+
+#contenido {
+    text-shadow: 2px 2px 8px gray;
+    margin-bottom: 30px;
+    margin-left:150px;
+    margin-right:150px;
+    column-count: 2;
+    text-align: justify;
+}
+
+#sectioncontenido {
+    text-align: justify;
+    background-image: linear-gradient(to left,rgb(241, 233, 234),white);
+    padding: 15px;
+    padding-top: 5px ;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+#imagen {
+    border-radius: 10px;
+    margin-bottom: 5px;
+    box-shadow: 2px 2px 8px gray;
+}
+
+
+#h2 {
+    text-align: center;
+    text-shadow: 2px 2px 8px gray;
+}
+
+#pie {
+    color:white;
+    background-image: linear-gradient(to left,rgb(48, 31, 43),rgb(92, 64, 76));
+    margin-top: 15px;
+    border-radius: 15px;
+    padding:8px;
+    text-shadow: 2px 2px 8px gray;
+}
